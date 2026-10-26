@@ -1,0 +1,6 @@
+# Configuración local de tokens de impresión (no subir a repositorios públicos)
+config.local.json
+.env
+node_modules/
+.DS_Store
+Thumbs.db
